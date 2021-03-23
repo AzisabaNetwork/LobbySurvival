@@ -1,0 +1,5 @@
+name: ${project.name}
+main: net.azisaba.lobby.lobbysurvival.LobbySurvival
+version: ${project.version}
+description: ${project.description}
+authors: [ "siloneco" ]
